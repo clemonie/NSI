@@ -1,7 +1,9 @@
-echo "# NSI" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/clemonie/NSI.git
-git push -u origin master
+numpy==1.16.*
+matplotlib==3.*
+seaborn==0.8.1
+pandas
+requests
+nbautoeval
+ipywidgets
+turtle
                 
