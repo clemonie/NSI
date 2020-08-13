@@ -5,6 +5,4 @@ pandas
 requests
 nbautoeval
 ipywidgets
-pyturtle
-tkinter
-                
+pyturtle        
