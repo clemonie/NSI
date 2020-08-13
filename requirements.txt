@@ -6,5 +6,5 @@ requests
 nbautoeval
 ipywidgets
 pyturtle
-
+tkinter
                 
